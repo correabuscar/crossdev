@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-ebuild musl-1.2.5.ebuild manifest
